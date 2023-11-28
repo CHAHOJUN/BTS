@@ -1,3 +1,4 @@
+test
 package com.example.board.config;
 
 import java.io.IOException;
